@@ -1,0 +1,6 @@
+{
+  "name": "Sarkari Career Hub",
+  "description": "A premium modern government jobs portal offering job alerts, admit cards, results, exam updates, and secure PDF guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
